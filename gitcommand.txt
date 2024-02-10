@@ -4,3 +4,8 @@ git status
 git show hash 
 git log 
 git init
+git remote set-url origin https://shiney495:"accessToken"@github.com//shiney495/GIT_Learn.git
+git push origin main
+(>  git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPOSITORY.git
+> git push origin main) 
+
