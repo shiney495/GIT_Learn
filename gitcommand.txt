@@ -9,3 +9,7 @@ git push origin main
 (>  git remote set-url origin https://USERNAME:TOKEN@github.com/USERNAME/REPOSITORY.git
 > git push origin main) 
 
+.gitignore
+
+GIT workflow: 
+
